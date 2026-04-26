@@ -1,3 +1,16 @@
+Expense Tracker
+Live Demo
+
+https://expense-tracker-five-eta-62.vercel.app
+
+GitHub Repository
+
+https://github.com/Bhushan7112/Expense_Tracker
+
+Backend API
+
+https://expense-tracker-xjli.onrender.com
+
 Key design:
 I kept the project structure simple by separating the frontend and backend into two folders. The frontend is built with React for a clean and responsive user interface, while the backend uses FastAPI because it is lightweight, fast, and easy to build REST APIs with.
 
