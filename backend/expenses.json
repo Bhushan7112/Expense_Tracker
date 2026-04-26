@@ -1,0 +1,105 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "amount": "2000",
+      "category": "food",
+      "description": "Bhsuhan",
+      "date": "2026-04-16",
+      "created_at": "2026-04-26T15:32:49.555933"
+    },
+    {
+      "id": 2,
+      "amount": "232",
+      "category": "Food",
+      "description": "Hellooo",
+      "date": "2026-04-15",
+      "created_at": "2026-04-26T15:38:13.928260"
+    },
+    {
+      "id": 5,
+      "amount": "23",
+      "category": "Food",
+      "description": "2fgg",
+      "date": "2026-04-10",
+      "created_at": "2026-04-26T15:49:44.365086"
+    },
+    {
+      "id": 6,
+      "amount": "33",
+      "category": "Bills",
+      "description": "33-2",
+      "date": "2026-04-14",
+      "created_at": "2026-04-26T15:52:32.589533"
+    },
+    {
+      "id": 5,
+      "amount": "6",
+      "category": "Travel",
+      "description": "bvgh",
+      "date": "2026-03-13",
+      "created_at": "2026-04-26T16:11:39.377962"
+    },
+    {
+      "id": 6,
+      "amount": "232",
+      "category": "Rent",
+      "description": "222",
+      "date": "2026-04-10",
+      "created_at": "2026-04-26T16:11:50.620134"
+    },
+    {
+      "id": 7,
+      "amount": "2222",
+      "category": "Health",
+      "description": "2222",
+      "date": "2026-04-04",
+      "created_at": "2026-04-26T16:12:02.091733"
+    },
+    {
+      "id": 9,
+      "amount": "34422.22",
+      "category": "Food",
+      "description": "3grgbrgb",
+      "date": "2026-04-02",
+      "created_at": "2026-04-26T16:14:16.827163"
+    },
+    {
+      "id": 9,
+      "amount": "28002236",
+      "category": "Food",
+      "description": "33",
+      "date": "2026-04-03",
+      "created_at": "2026-04-26T16:39:39.395522"
+    },
+    {
+      "id": 10,
+      "amount": "22",
+      "category": "Food",
+      "description": "22",
+      "date": "2026-04-17",
+      "created_at": "2026-04-26T16:41:20.012644"
+    }
+  ],
+  "keys": {
+    "27061f63-788e-4cb3-92eb-04d486309de0": 1,
+    "23b44766-7210-4f27-a7d8-13798d8c29c3": 2,
+    "65bd9d25-67d6-4d8f-b20a-287042fe2882": 3,
+    "407ef2d4-cd70-4bea-8561-d090f727e883": 4,
+    "957d12b8-9a54-4e4f-8646-6c173baae980": 5,
+    "1ded3ee8-e53a-4403-9407-53252a30b91e": 1,
+    "17090432-7297-4269-88a7-c28498141dfe": 2,
+    "f0b31852-3271-4376-b805-7849c32d88d5": 3,
+    "d3ff1862-66b6-47e0-967f-9bfc687de399": 4,
+    "a0c6a2a2-2afb-42e8-9028-00c22aedd585": 5,
+    "bb9af26b-b402-4e4a-96e3-386b6453468a": 6,
+    "19c10374-8a22-4067-8e93-deb1c1a0c0e0": 5,
+    "3a1dcb77-0bfd-48e4-a0b5-fb37cad4f09a": 6,
+    "45629096-3a38-4ed7-bb13-8ed4ba221f06": 7,
+    "47db8345-97c7-4665-8d2d-ca7811fdff14": 8,
+    "8a9e64a9-21b0-4f00-b96d-319c46e25a73": 9,
+    "6fd03f58-0db2-4269-9f61-2f0c69a74488": 10,
+    "d74dd0a0-1d83-4177-9e67-d9f28330e292": 9,
+    "9d4ac093-fd7a-4c31-8bd3-28e367b7d861": 10
+  }
+}
